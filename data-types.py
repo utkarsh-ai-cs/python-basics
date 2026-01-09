@@ -71,10 +71,3 @@ print(type(b))
 print(str(54))
 print(float(10))
 print(int(90.4))
-
-# input() function :-
-# Input function is used to take values / input for your program from the user but as a string like we enter inputs in the form or calculator to calculate.
-
-a = input("Enter a Number : ")
-b = input("Enter a Number : ")
-print("The sum of ", a, '&', b, 'is', a + b)
